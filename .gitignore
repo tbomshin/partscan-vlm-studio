@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+*.db
+*.duckdb
+.venv/
+venv/
+*.tmp
+*.log
